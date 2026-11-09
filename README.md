@@ -10,11 +10,14 @@
 
 ## 🚀 Quick Launch in Google Colab
 
-Students can open the examination notebook directly in Google Colab:
+Students can open the examination notebook directly in Google Colab with one click:
 
-1. Log into Google Colab using your **official university Google account**.
-2. Open the notebook `final_practical_exam.ipynb` from this repository.
-3. Run **Cell 1** to initialize the clinical dataset environment.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BunnyBoss/GCU-AIML-Practical-Exam-2026/blob/main/final_practical_exam.ipynb)
+
+*(Note: Ensure you are logged into Google Colab with your official university Google account).*
+
+1. Click the badge above (or navigate to `File -> Open notebook -> GitHub` and enter `BunnyBoss/GCU-AIML-Practical-Exam-2026`).
+2. Run **Cell 1** to initialize the clinical dataset environment.
 
 ---
 
