@@ -1,0 +1,10 @@
+# Master Practical Examination Requirements
+# Course Code: 02BMSBI24365 — AI and Machine Learning in Bioinformatics
+# Department of Life Sciences, Garden City University (GCU)
+
+numpy>=1.22.0
+pandas>=1.4.0
+scikit-learn>=1.2.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+jupyter>=1.0.0
